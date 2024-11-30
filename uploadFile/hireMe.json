@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bangkit-project-442312",
+  "private_key_id": "5ac21e591984e65d9e8aa72dc2bfa29832f85ed4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCFxxwdJlrgKHEI\nkkoXHIaayUJNlKGY7Hc4cmm6665gW80VNwOOFXRzkcZNT/izunZB0tjz58Ibxvt3\n44qDSw6Try58E1j4ZRruUGyh4kjtXtbjWq6taRbQBwMSsgzsv24t2zk5ibd1yo66\ni/D5gr43RA83UWll4fLHfM38nhH8To2/A1MJY8ml5Mg3Dtb6jtwfMdorV/N5+Z98\nyquHHQNRM7SM6B8i6gSQQna6HU3bvIPgb0yGCXeew8Mx5X/xqnWmgSm4ETCfZAuy\ntV7SmFoXaQRrbg8CNszzMrSF8l9hwDt0WS9Na4PGgDmwxyO/laeCspE/hkphykgF\nT7d3QGrDAgMBAAECggEAJ3SXHR3P1ab314BV68UVChfrvzfkBVdQvkw4VNHoBzFs\nJiKooMJBK0jGRM0eW9vVvwoxxJYJEOo6Bp0MoDaF4Rbczeli5zfinoEH2SMFQUUk\neb+oHysMeGRpCp2K5FR9aXbrxMWSX2JTgD9/3gcqlOA04KrZPBxM33s2wZfZVCFl\nzK8WcB+tfW+6ZEml8oGWctTBRuAtTXRDM+5154M8oqAn8ixsh/JSrrbuaP+NvNXH\nohZuZgRN6deUfj86nkqnBEtUl4mPXM+RZ05Wi6/jbIFde1EOcmMRGCS3+eFRP5cz\n8+z/ism8wkSvTiP26S8xKxCyWNK+O+l0qVrWmcqriQKBgQC8iSAPsGpK4Yr+EuUw\nq0lomGJVrninnzn85kxk3nWohx82U8WxV6je0AFXcioOjLJEHveOEFF6wXsWIkNZ\n6s9yEUkl2JYB8K61e+O0b9rmextlWZbEMKzSkCvRWlLjgaJT3TK+xvEzTf30iGkm\nWqp3gUqmpnVFDY8e4J8+cBeePQKBgQC1pd7FiWT3Bi99TB7QCmFe90CfceZhMi4m\nhoZpA9bVa61WqG9h6KwPjY9lBtdpQv57W2fsfcMPmmt9sDYn6fCEy6Ke0gJ5hXdj\n3ugM7F6be+xvPD4EwAKI9Z4pqYGyFfZc8meEHdSbaD0qsqJy/SJ2+oHldyjmTVW8\nCfSkWum8/wKBgQCydVHFyAU0z/zStmv+/4NC4ErkM3u9nngzLILPT8srNIuUzwLn\n9MPB9D3w2f15PDBZTr6g2E1n1tB9iP0blam6nSYSDssfFwUogBZvaxlW5NxvuLd/\nCVvtC86OIeMnukM/ArfP4VvaZk6mMqDlTxjgeZ+B0zpZnJYGcjQJ0+xnOQKBgECT\nIOjUeSIf/s3qO6H1rrvV5hFIqn+vGRz1Ad9fUAY66zo9UqtZzaER0AI4NmfjOxib\nXAyEgM2RNdlOxVHXJnvu8HbJbbvJqLHGUnQVq2RW36yDnACQSdZqirmA2ux2Rkiw\nnAApoqVEn0oIixuZxaDKWVc7zzxgDbR1TZUIBMP9AoGAYrlscADWaOXGV/tUxUIE\nXzzL2qMsowcEP4bqKSIoJrGikera7E1qcT1iDSGIvYSGZo7Hy6SwY33ZwHf0FGbM\ne8o6iWrsxPQNSRbC/DlhtcVPmEb+WLTdOS1vt62jDntSKc9olrU1VHpzinR5ulJS\nQjRMZxlEF6+eRx6M/MuyAfM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hireme11@bangkit-project-442312.iam.gserviceaccount.com",
+  "client_id": "103817602437739788190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hireme11%40bangkit-project-442312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
